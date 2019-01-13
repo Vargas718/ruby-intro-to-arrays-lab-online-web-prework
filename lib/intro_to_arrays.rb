@@ -14,3 +14,6 @@ end
 def third_element(newarray)
   newarray[2]
 end
+
+def last_element(newarray)
+  newarray[1]
