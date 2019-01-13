@@ -20,6 +20,7 @@ def last_element(newarray)
 end
 
 def first_element_with_array_methods(newarray)
+  newarray.first
   
   
   
