@@ -12,5 +12,5 @@ newarray[0]
 end
 
 def third_element(newarray)
-  array[2]
+  newarray[2]
 end
