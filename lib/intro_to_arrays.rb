@@ -26,3 +26,5 @@ def first_element_with_array_methods(newarray)
   def last_element_with_array_methods(newarray)
     newarray.last 
   end
+  def length_of_array(newarray)
+    newarray.length
