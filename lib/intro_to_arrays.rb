@@ -21,7 +21,6 @@ end
 
 def first_element_with_array_methods(newarray)
   newarray.first
+  end
   
-  
-  
-end
+  def 
