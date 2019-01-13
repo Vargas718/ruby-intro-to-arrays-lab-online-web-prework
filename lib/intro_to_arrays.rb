@@ -23,4 +23,6 @@ def first_element_with_array_methods(newarray)
   newarray.first
   end
   
-  def 
+  def last_element_with_array_methods(newarray)
+    newarray.last 
+  end
