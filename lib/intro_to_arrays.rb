@@ -9,3 +9,4 @@ end
 
 def first_element(newarray)
 newarray[0]
+end
