@@ -13,3 +13,4 @@ end
 
 def third_element(newarray)
   array[2]
+end
