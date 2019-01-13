@@ -16,5 +16,5 @@ def third_element(newarray)
 end
 
 def last_element(newarray)
-  newarray[1]
+  newarray[3]
 end
